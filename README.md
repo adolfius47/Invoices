@@ -1,6 +1,6 @@
 # Frontend App
 
-##go to /public
+###### Go to /public
 `cd public/`
 
 ###### Install npm dependencies
