@@ -1,3 +1,14 @@
+# Frontend App
+
+##go to /public
+`cd public/`
+
+###### Install npm dependencies
+`npm install`
+
+###### Run an initial webpack build
+`npm run dev`
+
 # Dependencies
 
 - sqlite3

@@ -273,7 +273,7 @@
                                 		</div>
                                 	</div>
 									<div className="col-lg-10 col-lg-offset-1 text-center">
-									<h3>Invoice will be saved in {this.state.int} seconds</h3>
+									{this.Interval?<h3>Invoice will be saved in {this.state.int} seconds</h3>:null}
 									</div>
 								
 								
